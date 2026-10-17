@@ -41,7 +41,7 @@ Harness 中负责压缩上下文的操作。论文的设定是：用压缩后的
 当历史 Token 数量超过预算时：
 
 ```math
-\operatorname{tokens}(H)>B
+\text{tokens}(H)>B
 ```
 
 Harness 执行压缩操作，用压缩后的内容替换较早的一段历史。论文用下面的记号表示请求到来前的历史经过压缩：
