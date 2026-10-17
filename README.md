@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | GCG | [论文学习与文献汇报](gcg/) | [学习总结](gcg/GCG学习总结.md)、[文献汇报 PPT](gcg/GCG文献汇报.pptx)、论文与官方代码链接 |
 | Sleeper Attack | [学习笔记](sleeper-attack/) | Agent 数学模型、Plant / Trigger、LIP / PIE / PIC、持久状态与评估方法 |
+| Governance Decay | [学习笔记](governance-decay/) | 上下文压缩与规则丢失、ConstraintRot、Compaction-Eviction Attack、Constraint Pinning |
 
 ## 阅读计划
 
